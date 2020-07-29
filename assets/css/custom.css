@@ -118,6 +118,9 @@
 .logo-gradb-bg img {
   width: 60%;
 }
+.for-os-img img {
+  max-width: 130px;
+}
 
   /* ---------stripe ===paypal=======styles */
 
